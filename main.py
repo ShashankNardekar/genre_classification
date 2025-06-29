@@ -11,8 +11,7 @@ def go(config: DictConfig):
 
     wandb.config = OmegaConf.to_container(
          config, 
-         resolve=True, 
-         throw_on_missing=True
+         resolve=True
     )
 
     # Setup the wandb experiment. All runs will be grouped under this name

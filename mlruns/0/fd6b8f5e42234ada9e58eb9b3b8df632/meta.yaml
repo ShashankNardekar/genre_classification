@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/fd6b8f5e42234ada9e58eb9b3b8df632/artifacts
+end_time: 1751215911716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd6b8f5e42234ada9e58eb9b3b8df632
+run_name: melodic-colt-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751215655895
+status: 4
+tags: []
+user_id: shashank

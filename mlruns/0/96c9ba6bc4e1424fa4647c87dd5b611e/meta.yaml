@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/96c9ba6bc4e1424fa4647c87dd5b611e/artifacts
+end_time: 1751217331133
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96c9ba6bc4e1424fa4647c87dd5b611e
+run_name: nervous-bass-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751217183827
+status: 3
+tags: []
+user_id: shashank

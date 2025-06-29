@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/d482010ce9354db28c16bb139565632e/artifacts
+end_time: 1751216957683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d482010ce9354db28c16bb139565632e
+run_name: fun-stork-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751216551874
+status: 4
+tags: []
+user_id: shashank

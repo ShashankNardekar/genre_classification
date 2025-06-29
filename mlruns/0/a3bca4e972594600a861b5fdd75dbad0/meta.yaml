@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/a3bca4e972594600a861b5fdd75dbad0/artifacts
+end_time: 1751216361911
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a3bca4e972594600a861b5fdd75dbad0
+run_name: tasteful-skunk-655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751216066207
+status: 4
+tags: []
+user_id: shashank

@@ -1,0 +1,121 @@
+{
+    "os": "Linux-5.15.167.4-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+    "python": "3.10.18",
+    "heartbeatAt": "2025-06-29T16:50:08.648907",
+    "startedAt": "2025-06-29T16:50:06.799901",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/home/shashank/solution_14/genre_classification/outputs/2025-06-29/17-47-41/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/home/shashank/solution_14/genre_classification/random_forest/run.py",
+    "codePathLocal": "run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/ShashankNardekar/genre_classification.git",
+        "commit": "2c8ea4547544a44c7f2d48dd8d08c4abdd95f794"
+    },
+    "email": "shashanknardekar@gmail.com",
+    "root": "/home/shashank/solution_14/genre_classification",
+    "host": "RTX",
+    "username": "shashank",
+    "executable": "/home/shashank/miniconda3/envs/mlflow-7f9a93e3056eebb8192f034b71e4949f7ae707db/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3293.724999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3293.725,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 22.058517456054688
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.464038848876953
+    }
+}

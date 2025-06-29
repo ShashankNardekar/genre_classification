@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/4b28c111988e4a53bfb95112f4ad10ee/artifacts
+end_time: 1751214487125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b28c111988e4a53bfb95112f4ad10ee
+run_name: worried-lynx-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751214451345
+status: 4
+tags: []
+user_id: shashank

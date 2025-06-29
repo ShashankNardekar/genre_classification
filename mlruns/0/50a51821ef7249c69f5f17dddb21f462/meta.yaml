@@ -1,0 +1,15 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/50a51821ef7249c69f5f17dddb21f462/artifacts
+end_time: 1751217256592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 50a51821ef7249c69f5f17dddb21f462
+run_uuid: 50a51821ef7249c69f5f17dddb21f462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751217237177
+status: 3
+tags: []
+user_id: shashank

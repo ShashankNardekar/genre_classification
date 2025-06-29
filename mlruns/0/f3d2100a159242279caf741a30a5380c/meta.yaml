@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/f3d2100a159242279caf741a30a5380c/artifacts
+end_time: 1751215557119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3d2100a159242279caf741a30a5380c
+run_name: magnificent-mole-154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751215412269
+status: 4
+tags: []
+user_id: shashank

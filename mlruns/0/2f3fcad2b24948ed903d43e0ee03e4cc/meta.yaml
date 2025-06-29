@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/2f3fcad2b24948ed903d43e0ee03e4cc/artifacts
+end_time: 1751214765851
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f3fcad2b24948ed903d43e0ee03e4cc
+run_name: polite-wren-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751214663852
+status: 4
+tags: []
+user_id: shashank

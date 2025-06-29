@@ -1,0 +1,14 @@
+artifact_uri: file:///home/shashank/solution_14/genre_classification/mlruns/0/432cfdd1c107414dad2b919407bc2a4a/artifacts
+end_time: 1751214590361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 432cfdd1c107414dad2b919407bc2a4a
+run_name: orderly-hog-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751214548348
+status: 4
+tags: []
+user_id: shashank
